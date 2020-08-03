@@ -1,0 +1,24 @@
+{
+  "name": "myconversor",
+  "displayName": "myConversor",
+  "expo": {
+    "name": "myconversor",
+    "slug": "myconversor",
+    "icon": "icon.png",
+    "splash": {
+      "image": "splash.png"
+    },
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "bundleIdentifier": "com.robianchini.myconversor",
+      "buildNumber": "1.0.0"
+    },
+    "android": {
+      "package": "com.robianchini.myconversor",
+      "versionCode": 1
+    }
+  }
+}
