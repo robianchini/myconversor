@@ -1,7 +1,6 @@
 # myConversor
 
-O myConversor é um conversor das medidas para iOS e Android desenvolvido em ReactNative (com Expo).
-A ideia do aplicativo é ser um conversor rápido entre as principais unidades de medida do Brasil e dos Estados Unidos.
+O myConversor é um conversor das as principais unidades de medida do Brasil e Estados Unidos para iOS e Android desenvolvido em ReactNative.
 
 ![smartmockups_kddt6fi7](https://user-images.githubusercontent.com/35143346/89136800-d8fc6e80-d50b-11ea-81c1-fe149b858430.png)
 
